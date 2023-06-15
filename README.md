@@ -36,3 +36,6 @@ cd ConverterjC
 ```
 python3 main.py
 ```
+
+# Результат работы
+(C:\Users\Nikita\Desktop\photo_2023-06-15_21-59-12)
