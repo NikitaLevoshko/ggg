@@ -1,2 +1,2 @@
-# Hi there, I'm [Daniil](https://daniilshat.ru/) 
+# Hi there, I'm 
 ### Computer science student, IT news writer from Russia 🇷🇺
