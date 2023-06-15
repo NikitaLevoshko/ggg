@@ -26,6 +26,9 @@
 # Установка проекта 
 cd '/YOUR_PATH'
 
-git clone https://github.com/ViktorDanilin/Gestures.git
+git clone https://github.com/AndreiPerevoshchikov/ConverterJC.git
 
 cd Gestures/
+
+# Запуск программы
+python3 main.py
