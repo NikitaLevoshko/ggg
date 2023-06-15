@@ -12,7 +12,7 @@
 <br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%FF99FF&lines=5+.+Нажать+на+кнопку)](https://git.io/typing-svg)
 <br>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%FF99FF&lines="+Конвертировать+")](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%FFFF00&lines="+Конвертировать+")](https://git.io/typing-svg)
 <br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%FF99FF&lines=6+.+Конвертированный+файл+получен)](https://git.io/typing-svg)
 <br>
