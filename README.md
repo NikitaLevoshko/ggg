@@ -10,7 +10,7 @@
 <br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=4+.+Выбрать+необходимый+файл)](https://git.io/typing-svg)
 <br>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=5+.+Нажать+на+кнопку+"+Конвертировать+")](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=5+.+Нажать+на+кнопку)](https://git.io/typing-svg)
 <br>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines="+Выбрать+json+файл+")](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines="+Конвертировать+")](https://git.io/typing-svg)
 <br>
